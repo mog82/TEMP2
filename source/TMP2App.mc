@@ -11,6 +11,7 @@ class TMP2App extends App.AppBase {
     }
 
     //! Return the initial view of your application here
+	// Un commentaire de CMAU
     function getInitialView() {
         return [ new TMP2View() ];
     }
